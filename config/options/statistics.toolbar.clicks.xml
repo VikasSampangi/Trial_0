@@ -1,0 +1,26 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Android.RunAndroidAvdManager@NavBarToolbar" count="7" />
+      <entry action="Android.RunAndroidSdkManager@NavBarToolbar" count="4" />
+      <entry action="Android.SyncProject@NavBarToolbar" count="8" />
+      <entry action="FileChooser.GotoHome@FileChooserDialog" count="3" />
+      <entry action="FileChooser.GotoProject@FileChooserDialog" count="1" />
+      <entry action="FileChooser.NewFolder@FileChooserDialog" count="3" />
+      <entry action="FileChooser.ShowHiddens@FileChooserDialog" count="2" />
+      <entry action="MakeGradleProject@NavBarToolbar" count="1" />
+      <entry action="Run@NavBarToolbar" count="4" />
+      <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$GearAction@TOOL_WINDOW_TOOLBAR" count="9" />
+      <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$HideAction@TOOL_WINDOW_TOOLBAR" count="3" />
+      <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$SearchAction@TOOL_WINDOW_TOOLBAR" count="3" />
+      <entry action="com.android.tools.idea.common.actions.SetZoomAction@NlRhsConfigToolbar" count="47" />
+      <entry action="com.android.tools.idea.configurations.DeviceMenuAction@toolbar" count="7" />
+      <entry action="com.android.tools.idea.configurations.ThemeMenuAction@toolbar" count="26" />
+      <entry action="com.android.tools.idea.fd.actions.HotswapAction@NavBarToolbar" count="2" />
+      <entry action="com.android.tools.idea.uibuilder.error.IssuePanel$MinimizeAction@unknown" count="10" />
+      <entry action="com.android.tools.idea.uibuilder.property.ViewAllPropertiesAction@TOOL_WINDOW_TOOLBAR" count="6" />
+      <entry action="com.android.tools.idea.uibuilder.property.editors.BrowsePanel$BrowseAction@unknown" count="5" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="1" />
+    </counts>
+  </component>
+</application>

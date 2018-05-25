@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication1\.idea\codeStyles\Project.xml" timestamp="1526613906871" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication1\.idea\gradle.xml" timestamp="1526613970570" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication1\.idea\misc.xml" timestamp="1526613906381" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication1\.idea\runConfigurations.xml" timestamp="1526613970691" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication1\.idea\workspace.xml" timestamp="1526613969788" />
+  </project-files>
+</conversion>
+

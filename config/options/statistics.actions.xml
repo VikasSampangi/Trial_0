@@ -1,0 +1,87 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="6" />
+      <entry action="$Cut" count="1" />
+      <entry action="$Delete" count="79" />
+      <entry action="$Paste" count="3" />
+      <entry action="$SelectAll" count="8" />
+      <entry action="$Undo" count="195" />
+      <entry action="Android.BuildApk" count="2" />
+      <entry action="Android.GenerateSignedApk" count="2" />
+      <entry action="Android.RunAndroidAvdManager" count="9" />
+      <entry action="Android.RunAndroidSdkManager" count="4" />
+      <entry action="Android.SyncProject" count="8" />
+      <entry action="ChooseRunConfiguration" count="1" />
+      <entry action="CloseProject" count="2" />
+      <entry action="CopyPaths" count="1" />
+      <entry action="Create Class from New" count="1" />
+      <entry action="Create Constant From Usage" count="1" />
+      <entry action="DeveloperServices.Firebase" count="1" />
+      <entry action="EditorBackSpace" count="2803" />
+      <entry action="EditorChooseLookupItem" count="109" />
+      <entry action="EditorCopy" count="29" />
+      <entry action="EditorCut" count="18" />
+      <entry action="EditorDelete" count="21" />
+      <entry action="EditorDeleteLine" count="16" />
+      <entry action="EditorDown" count="655" />
+      <entry action="EditorDownWithSelection" count="13" />
+      <entry action="EditorEnter" count="213" />
+      <entry action="EditorLeft" count="1339" />
+      <entry action="EditorLeftWithSelection" count="349" />
+      <entry action="EditorLineEnd" count="1" />
+      <entry action="EditorPaste" count="87" />
+      <entry action="EditorRight" count="1842" />
+      <entry action="EditorRightWithSelection" count="233" />
+      <entry action="EditorScrollDown" count="1" />
+      <entry action="EditorSplitLine" count="1" />
+      <entry action="EditorStartNewLine" count="1" />
+      <entry action="EditorTab" count="43" />
+      <entry action="EditorToggleInsertState" count="9" />
+      <entry action="EditorUp" count="460" />
+      <entry action="EditorUpWithSelection" count="18" />
+      <entry action="FileChooser.GotoHome" count="3" />
+      <entry action="FileChooser.GotoProject" count="1" />
+      <entry action="FileChooser.NewFolder" count="3" />
+      <entry action="FileChooser.ShowHiddens" count="2" />
+      <entry action="Github.Share" count="1" />
+      <entry action="GotoDeclaration" count="3" />
+      <entry action="HideAllWindows" count="15" />
+      <entry action="ImplementMethods" count="2" />
+      <entry action="MakeGradleProject" count="1" />
+      <entry action="NewAndroidImageAsset" count="1" />
+      <entry action="NewProject" count="12" />
+      <entry action="OpenFile" count="10" />
+      <entry action="ParameterInfo" count="1" />
+      <entry action="PasteMultiple" count="1" />
+      <entry action="RebuildGradleProject" count="2" />
+      <entry action="Remove unused variable" count="1" />
+      <entry action="Rename Wrong Reference" count="1" />
+      <entry action="RestoreDefaultLayout" count="2" />
+      <entry action="RevealIn" count="10" />
+      <entry action="Run" count="93" />
+      <entry action="Run inspection on ..." count="1" />
+      <entry action="RunClass" count="1" />
+      <entry action="SaveAll" count="6" />
+      <entry action="SearchEverywhere" count="1" />
+      <entry action="ShowIntentionActions" count="67" />
+      <entry action="ShowLog" count="2" />
+      <entry action="ShowSettings" count="3" />
+      <entry action="ShowSiblings" count="1" />
+      <entry action="Split Declaration" count="1" />
+      <entry action="SynchronizeCurrentFile" count="1" />
+      <entry action="ToggleLineBreakpoint" count="8" />
+      <entry action="template.create.ActivityBasic Activity" count="1" />
+      <entry action="template.create.ActivityBlank Wear Activity" count="1" />
+      <entry action="template.create.ActivityBottom Navigation Activity" count="2" />
+      <entry action="template.create.ActivityEmpty Activity" count="2" />
+      <entry action="template.create.ActivityLogin Activity" count="3" />
+      <entry action="template.create.ActivityNavigation Drawer Activity" count="8" />
+      <entry action="template.create.ActivityScrolling Activity" count="2" />
+      <entry action="template.create.ActivityTabbed Activity" count="2" />
+      <entry action="template.create.FolderRaw Resources Folder" count="2" />
+      <entry action="template.create.FolderRes Folder" count="1" />
+      <entry action="template.create.XMLLayout XML File" count="1" />
+    </counts>
+  </component>
+</application>

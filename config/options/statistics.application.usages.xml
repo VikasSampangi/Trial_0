@@ -1,0 +1,114 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="Application_0" values="AndroidRunConfigurationType" collectionTime="1527166343931" />
+      <project id="MyApplication" values="AndroidRunConfigurationType" collectionTime="1527255875096" />
+      <project id="timetablesApp" values="AndroidRunConfigurationType" collectionTime="1526885152240" />
+      <project id="MyApplication3" values="AndroidRunConfigurationType" collectionTime="1526973569540" />
+      <project id="MyApplication_1" values="AndroidRunConfigurationType" collectionTime="1526905087611" />
+      <project id="Trail_0" values="AndroidRunConfigurationType" collectionTime="1526405344114" />
+      <project id=".AndroidStudio3.1" values="AndroidRunConfigurationType" collectionTime="1527255974339" />
+      <project id="MyApplication123" values="AndroidRunConfigurationType" collectionTime="1527253051473" />
+    </group>
+    <group name="module type">
+      <project id="Application_0" values="JAVA_MODULE" collectionTime="1527166343929" />
+      <project id="MyApplication" values="JAVA_MODULE" collectionTime="1527255875096" />
+      <project id="timetablesApp" values="JAVA_MODULE" collectionTime="1526885152240" />
+      <project id="MyApplication3" values="JAVA_MODULE" collectionTime="1526973569539" />
+      <project id="MyApplication_1" values="JAVA_MODULE" collectionTime="1526905087611" />
+      <project id="Trail_0" values="JAVA_MODULE" collectionTime="1526405344113" />
+      <project id=".AndroidStudio3.1" values="JAVA_MODULE" collectionTime="1527255974339" />
+      <project id="MyApplication123" values="JAVA_MODULE" collectionTime="1527253034372" />
+    </group>
+    <group name="file-type">
+      <project id="Application_0" values="XML,Groovy,ProGuard File,Properties,JAVA,IDEA_MODULE,PLAIN_TEXT,Images,ARCHIVE" collectionTime="1527166345034" />
+      <project id="MyApplication" values="PLAIN_TEXT,JSON,Groovy,ARCHIVE,ProGuard File,JAVA,Properties,Images,XML,IDEA_MODULE" collectionTime="1527255875299" />
+      <project id="timetablesApp" values="Groovy,JAVA,Properties,IDEA_MODULE,Images,ARCHIVE,ProGuard File,XML,PLAIN_TEXT" collectionTime="1526885152316" />
+      <project id="MyApplication3" values="XML,Images,ARCHIVE,Groovy,Properties,PLAIN_TEXT,JAVA,IDEA_MODULE,ProGuard File" collectionTime="1526973570022" />
+      <project id="MyApplication_1" values="PLAIN_TEXT,ARCHIVE,Images,ProGuard File,JAVA,Groovy,IDEA_MODULE,Properties,XML" collectionTime="1526905087907" />
+      <project id="Trail_0" values="Groovy,IDEA_MODULE,JAVA,ProGuard File,ARCHIVE,Images,XML,Properties,PLAIN_TEXT" collectionTime="1526405344320" />
+      <project id=".AndroidStudio3.1" values="ProGuard File,UNKNOWN,Properties,JAVA,Assembly file,XML,Groovy,PLAIN_TEXT,JSON,ARCHIVE,Images,IDEA_MODULE" collectionTime="1527255974417" />
+      <project id="MyApplication123" values="PLAIN_TEXT,IDEA_MODULE,ProGuard File,XML,Images,Groovy,Properties,JAVA,ARCHIVE" collectionTime="1527253086183" />
+    </group>
+    <group name="Run Dashboard">
+      <project id="Application_0" values="run.dashboard.disabled" collectionTime="1527166345040" />
+      <project id="MyApplication" values="run.dashboard.disabled" collectionTime="1527255875299" />
+      <project id="timetablesApp" values="run.dashboard.disabled" collectionTime="1526885152316" />
+      <project id="MyApplication3" values="run.dashboard.disabled" collectionTime="1526973570023" />
+      <project id="MyApplication_1" values="run.dashboard.disabled" collectionTime="1526905087907" />
+      <project id="Trail_0" values="run.dashboard.disabled" collectionTime="1526405344326" />
+      <project id=".AndroidStudio3.1" values="run.dashboard.disabled" collectionTime="1527255974417" />
+      <project id="MyApplication123" values="run.dashboard.disabled" collectionTime="1527253086406" />
+    </group>
+    <group name="kotlin.formatter">
+      <project id="Application_0" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1527166348578" />
+      <project id="MyApplication" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1527255887628" />
+      <project id="timetablesApp" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1526885152330" />
+      <project id="MyApplication3" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1526973574997" />
+      <project id="MyApplication_1" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1526905088023" />
+      <project id="Trail_0" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1526405346131" />
+      <project id=".AndroidStudio3.1" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1527255974433" />
+      <project id="MyApplication123" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1527253090543" />
+    </group>
+    <group name="module-language-level">
+      <project id="Application_0" values="JDK_1_7" collectionTime="1527166346007" />
+      <project id="MyApplication" values="JDK_1_7" collectionTime="1527255877753" />
+      <project id="timetablesApp" values="JDK_1_7" collectionTime="1526885152327" />
+      <project id="MyApplication3" values="JDK_1_7" collectionTime="1526973570334" />
+      <project id="MyApplication_1" values="JDK_1_7" collectionTime="1526905087929" />
+      <project id="Trail_0" values="JDK_1_7" collectionTime="1526405344621" />
+      <project id=".AndroidStudio3.1" values="JDK_1_7" collectionTime="1527255974433" />
+      <project id="MyApplication123" values="JDK_1_7" collectionTime="1527253086606" />
+    </group>
+    <group name="frameworks">
+      <project id="Application_0" values="android-gradle,java-gradle,android" collectionTime="1527166343929" />
+      <project id="MyApplication" values="android,android-gradle,java-gradle" collectionTime="1527255875096" />
+      <project id="timetablesApp" values="java-gradle,android,android-gradle" collectionTime="1526885152240" />
+      <project id="MyApplication3" values="android,android-gradle,java-gradle" collectionTime="1526973569538" />
+      <project id="MyApplication_1" values="android-gradle,java-gradle,android" collectionTime="1526905087611" />
+      <project id="Trail_0" values="java-gradle,android-gradle,android" collectionTime="1526405344112" />
+      <project id=".AndroidStudio3.1" values="java-gradle,android-gradle,android" collectionTime="1527255974339" />
+      <project id="MyApplication123" values="java-gradle,android-gradle,android" collectionTime="1527253034372" />
+    </group>
+    <group name="vcs-stats">
+      <project id="Application_0" values="unversioned.files.count.0,has.default.vcs.root.mapping.enabled,active.changelists.count.1,ignored.files.count.0,vcs.roots.count.0" collectionTime="1527166343928" />
+      <project id="MyApplication" values="active.changelists.count.1,ignored.files.count.0,has.default.vcs.root.mapping.enabled,unversioned.files.count.0,vcs.roots.count.0" collectionTime="1527255875096" />
+      <project id="timetablesApp" values="unversioned.files.count.0,vcs.roots.count.0,active.changelists.count.1,ignored.files.count.0,has.default.vcs.root.mapping.enabled" collectionTime="1526885152240" />
+      <project id="MyApplication3" values="vcs.roots.count.0,unversioned.files.count.0,active.changelists.count.1,ignored.files.count.0,has.default.vcs.root.mapping.enabled" collectionTime="1526973569537" />
+      <project id="MyApplication_1" values="ignored.files.count.0,vcs.roots.count.0,has.default.vcs.root.mapping.enabled,active.changelists.count.1,unversioned.files.count.0" collectionTime="1526905087610" />
+      <project id="Trail_0" values="has.default.vcs.root.mapping.enabled,ignored.files.count.0,vcs.roots.count.0,unversioned.files.count.0,active.changelists.count.1" collectionTime="1526405344111" />
+      <project id=".AndroidStudio3.1" values="has.default.vcs.root.mapping.enabled,ignored.files.count.0,unversioned.files.count.0,active.changelists.count.1,vcs.roots.count.0" collectionTime="1527255974339" />
+      <project id="MyApplication123" values="active.changelists.count.1,vcs.roots.count.0,ignored.files.count.0,unversioned.files.count.0,has.default.vcs.root.mapping.enabled" collectionTime="1527253034372" />
+    </group>
+    <group name="Git">
+      <project id="Application_0" values="version.0.0.0-NULL,config.save.policy.STASH,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.force.push.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled" collectionTime="1527166346037" />
+      <project id="MyApplication" values="config.repo.sync.NOT_DECIDED,version.0.0.0-NULL,config.ssh.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled" collectionTime="1527255877753" />
+      <project id="timetablesApp" values="config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,version.0.0.0-NULL,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1526885152327" />
+      <project id="MyApplication3" values="config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.force.push.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,version.0.0.0-NULL" collectionTime="1526973570346" />
+      <project id="MyApplication_1" values="config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,version.0.0.0-NULL,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH" collectionTime="1526905087931" />
+      <project id="Trail_0" values="config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,version.0.0.0-NULL" collectionTime="1526405344622" />
+      <project id=".AndroidStudio3.1" values="config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,version.0.0.0-NULL,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled" collectionTime="1527255974433" />
+      <project id="MyApplication123" values="config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,version.0.0.0-NULL,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.ssh.enabled" collectionTime="1527253087981" />
+    </group>
+    <group name="vcs-options">
+      <project id="Application_0" values="offer.move.failed.committed.do_nothing_silently,changelist.preselect.existing.disabled,offer.move.partially.committed.disabled,commit.before.optimize.imports.disabled,perform.checkout.in.background.enabled,perform.rollback.in.background.disabled,show.changes.preview.disabled,commit.before.reformat.project.disabled,commit.before.check.non.empty.comment.disabled,perform.commit.in.background.enabled,commit.use.right.margin.enabled,commit.show.unversioned.enabled,commit.before.rearrange.disabled,commit.clear.initial.comment.disabled,perform.edit.in.background.enabled,changelist.make.new.active.disabled,offer.remove.empty.changelist.show_confirmation,include.text.into.shelf.enabled,commit.before.check.code.cleanup.disabled,commit.before.check.code.smell.enabled,perform.add_remove.in.background.enabled,commit.before.check.todo.enabled,check.conflicts.in.background.disabled,perform.update.in.background.enabled" collectionTime="1527166343925" />
+      <project id="MyApplication" values="commit.before.check.code.smell.enabled,commit.before.optimize.imports.disabled,offer.move.partially.committed.disabled,changelist.preselect.existing.disabled,perform.update.in.background.enabled,show.changes.preview.disabled,commit.before.rearrange.disabled,commit.use.right.margin.enabled,include.text.into.shelf.enabled,commit.before.check.todo.enabled,offer.move.failed.committed.do_nothing_silently,commit.show.unversioned.enabled,commit.before.check.non.empty.comment.disabled,check.conflicts.in.background.disabled,perform.checkout.in.background.enabled,commit.clear.initial.comment.disabled,changelist.make.new.active.disabled,perform.edit.in.background.enabled,perform.rollback.in.background.disabled,perform.add_remove.in.background.enabled,offer.remove.empty.changelist.show_confirmation,perform.commit.in.background.enabled,commit.before.check.code.cleanup.disabled,commit.before.reformat.project.disabled" collectionTime="1527255875096" />
+      <project id="timetablesApp" values="offer.move.failed.committed.do_nothing_silently,perform.add_remove.in.background.enabled,perform.commit.in.background.enabled,offer.remove.empty.changelist.show_confirmation,commit.clear.initial.comment.disabled,commit.before.check.non.empty.comment.disabled,commit.before.check.todo.enabled,perform.checkout.in.background.enabled,commit.use.right.margin.enabled,commit.before.check.code.smell.enabled,show.changes.preview.disabled,perform.rollback.in.background.disabled,commit.show.unversioned.enabled,commit.before.optimize.imports.disabled,commit.before.reformat.project.disabled,offer.move.partially.committed.disabled,changelist.preselect.existing.disabled,perform.edit.in.background.enabled,include.text.into.shelf.enabled,check.conflicts.in.background.disabled,commit.before.rearrange.disabled,changelist.make.new.active.disabled,perform.update.in.background.enabled,commit.before.check.code.cleanup.disabled" collectionTime="1526885152240" />
+      <project id="MyApplication3" values="show.changes.preview.disabled,commit.clear.initial.comment.disabled,commit.before.check.code.smell.enabled,commit.before.check.code.cleanup.disabled,commit.before.reformat.project.disabled,include.text.into.shelf.enabled,perform.edit.in.background.enabled,changelist.make.new.active.disabled,commit.use.right.margin.enabled,perform.rollback.in.background.disabled,perform.add_remove.in.background.enabled,commit.before.optimize.imports.disabled,commit.before.rearrange.disabled,perform.commit.in.background.enabled,changelist.preselect.existing.disabled,commit.before.check.todo.enabled,offer.remove.empty.changelist.show_confirmation,perform.update.in.background.enabled,offer.move.failed.committed.do_nothing_silently,check.conflicts.in.background.disabled,offer.move.partially.committed.disabled,commit.show.unversioned.enabled,commit.before.check.non.empty.comment.disabled,perform.checkout.in.background.enabled" collectionTime="1526973569505" />
+      <project id="MyApplication_1" values="commit.before.optimize.imports.disabled,perform.commit.in.background.enabled,commit.clear.initial.comment.disabled,commit.before.reformat.project.disabled,perform.edit.in.background.enabled,commit.show.unversioned.enabled,commit.before.check.code.cleanup.disabled,changelist.preselect.existing.disabled,offer.move.partially.committed.disabled,commit.before.check.todo.enabled,commit.use.right.margin.enabled,offer.remove.empty.changelist.show_confirmation,offer.move.failed.committed.do_nothing_silently,commit.before.check.non.empty.comment.disabled,changelist.make.new.active.disabled,show.changes.preview.disabled,perform.checkout.in.background.enabled,perform.rollback.in.background.disabled,perform.update.in.background.enabled,commit.before.rearrange.disabled,perform.add_remove.in.background.enabled,commit.before.check.code.smell.enabled,check.conflicts.in.background.disabled,include.text.into.shelf.enabled" collectionTime="1526905087561" />
+      <project id="Trail_0" values="show.changes.preview.disabled,commit.clear.initial.comment.disabled,commit.before.rearrange.disabled,commit.use.right.margin.enabled,check.conflicts.in.background.disabled,changelist.make.new.active.disabled,commit.before.check.non.empty.comment.disabled,offer.move.partially.committed.disabled,changelist.preselect.existing.disabled,commit.before.check.todo.enabled,commit.before.check.code.smell.enabled,commit.before.optimize.imports.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.reformat.project.disabled,include.text.into.shelf.enabled,perform.commit.in.background.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.code.cleanup.disabled,perform.checkout.in.background.enabled,perform.rollback.in.background.disabled,commit.show.unversioned.enabled,perform.update.in.background.enabled,perform.add_remove.in.background.enabled,perform.edit.in.background.enabled" collectionTime="1526405344109" />
+      <project id=".AndroidStudio3.1" values="offer.remove.empty.changelist.show_confirmation,perform.add_remove.in.background.enabled,commit.use.right.margin.enabled,perform.edit.in.background.enabled,commit.before.check.code.smell.enabled,perform.update.in.background.enabled,offer.move.partially.committed.disabled,perform.checkout.in.background.enabled,commit.before.rearrange.disabled,changelist.make.new.active.disabled,commit.before.reformat.project.disabled,perform.commit.in.background.enabled,offer.move.failed.committed.do_nothing_silently,commit.show.unversioned.enabled,check.conflicts.in.background.disabled,changelist.preselect.existing.disabled,perform.rollback.in.background.disabled,commit.before.check.todo.enabled,commit.before.check.non.empty.comment.disabled,show.changes.preview.disabled,commit.before.check.code.cleanup.disabled,commit.before.optimize.imports.disabled,include.text.into.shelf.enabled,commit.clear.initial.comment.disabled" collectionTime="1527255974339" />
+      <project id="MyApplication123" values="offer.move.partially.committed.disabled,perform.commit.in.background.enabled,perform.checkout.in.background.enabled,commit.before.rearrange.disabled,commit.show.unversioned.enabled,perform.rollback.in.background.disabled,perform.update.in.background.enabled,commit.before.reformat.project.disabled,commit.before.check.code.cleanup.disabled,check.conflicts.in.background.disabled,offer.move.failed.committed.do_nothing_silently,perform.edit.in.background.enabled,commit.before.optimize.imports.disabled,show.changes.preview.disabled,commit.before.check.non.empty.comment.disabled,commit.use.right.margin.enabled,commit.before.check.code.smell.enabled,changelist.preselect.existing.disabled,include.text.into.shelf.enabled,perform.add_remove.in.background.enabled,changelist.make.new.active.disabled,commit.before.check.todo.enabled,offer.remove.empty.changelist.show_confirmation,commit.clear.initial.comment.disabled" collectionTime="1527253034208" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Android Profiler].hidden" count="19" />
+      <entry feature="StripeButton[Android Profiler].shown" count="9" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="112" />
+      <entry feature="ide.settings.Android SDK" count="4" />
+      <entry feature="ideaapp.started" count="17" />
+      <entry feature="terminal.win" count="1" />
+    </counts>
+  </component>
+</application>

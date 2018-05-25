@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\assetWizardSettings.xml" timestamp="1526626529002" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\codeStyles\Project.xml" timestamp="1526404187023" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\gradle.xml" timestamp="1526404322258" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__android_arch_core_common_1_0_0_jar.xml" timestamp="1526404400024" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__android_arch_lifecycle_common_1_0_0_jar.xml" timestamp="1526404412760" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__android_arch_lifecycle_runtime_1_0_0.xml" timestamp="1526404412869" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_animated_vector_drawable_26_1_0.xml" timestamp="1526404412931" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_appcompat_v7_26_1_0.xml" timestamp="1526404413048" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_1_1_0.xml" timestamp="1526404413126" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_solver_1_1_0_jar.xml" timestamp="1526404413204" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_design_26_1_0.xml" timestamp="1526574362793" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_recyclerview_v7_26_1_0.xml" timestamp="1526574363049" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_support_annotations_26_1_0_jar.xml" timestamp="1526404413376" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_support_annotations_27_1_1_jar.xml" timestamp="1526404413455" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_support_compat_26_1_0.xml" timestamp="1526404413533" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_support_core_ui_26_1_0.xml" timestamp="1526404413626" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_support_core_utils_26_1_0.xml" timestamp="1526404413705" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_support_fragment_26_1_0.xml" timestamp="1526404413814" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_support_media_compat_26_1_0.xml" timestamp="1526404413892" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_support_v4_26_1_0.xml" timestamp="1526404413994" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_support_vector_drawable_26_1_0.xml" timestamp="1526404414072" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" timestamp="1526404414260" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" timestamp="1526404414353" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_test_monitor_1_0_2.xml" timestamp="1526404414650" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_test_runner_1_0_2.xml" timestamp="1526404414760" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_transition_26_1_0.xml" timestamp="1526574363296" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_google_android_gms_play_services_base_15_0_1.xml" timestamp="1526618208595" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_google_android_gms_play_services_basement_15_0_1.xml" timestamp="1526618220335" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_google_android_gms_play_services_maps_15_0_1.xml" timestamp="1526618220497" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_google_android_gms_play_services_tasks_15_0_1.xml" timestamp="1526618220708" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1526404414862" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1526404415034" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1526404415127" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1526404415237" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1526404415393" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1526404415518" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1526404415612" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1526404415706" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\misc.xml" timestamp="1527218951702" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\modules.xml" timestamp="1526404399634" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\runConfigurations.xml" timestamp="1526404322326" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\.idea\workspace.xml" timestamp="1527251502187" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\MyApplication.iml" timestamp="1526404398989" />
+    <file path="C:\Users\Father's Eyes\AndroidStudioProjects\MyApplication\app\app.iml" timestamp="1526971261619" />
+  </project-files>
+</conversion>
+

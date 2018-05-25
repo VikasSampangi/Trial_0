@@ -1,0 +1,26 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="686" y="366" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="349" y="225" />
+    <location key="deploy.picker.dialog.0.0.1366.768" x="363" y="155" />
+    <location key="SettingsEditor.0.0.1366.768" x="161" y="45" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="463" y="141" />
+    <location key="#app.0.0.1366.768" x="441" y="42" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="966" y="594" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="488" y="104" />
+    <location key="AndroidCreateResourceFileDialog.0.0.1366.768" x="263" y="155" />
+    <location key="AndroidCreateXmlResourceDialog.0.0.1366.768" x="541" y="203" />
+    <location key="AndroidThemeDialog.0.0.1366.768" x="263" y="105" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768" x="413" y="155" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" x="437" y="197" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1366.768" x="413" y="147" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1366.768" x="513" y="30" />
+    <location key="Github.ShareDialog.0.0.1366.768" x="475" y="276" />
+    <size key="ProcessPopupWindow.0.0.1366.768" width="400" height="180" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="181" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="181" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="181" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="181" />
+    <size key="deploy.picker.dialog.0.0.1366.768" width="640" height="535" />
+  </component>
+</application>

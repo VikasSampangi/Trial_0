@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/live"
+
+            android:title="Live" />
+        <item
+            android:id="@+id/hq"
+
+            android:title="Headquarters" />
+        <item
+            android:id="@+id/divisons"
+            android:title="Divisons" />
+        <item
+            android:id="@+id/wtc"
+            android:title="Workshops-Training Center" />
+        <item
+            android:id="@+id/cons"
+            android:title="Constructions" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_menu_share"
+                android:title="About" />
+            <item
+                android:id="@+id/contact"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Contact" />
+        </menu>
+    </item>
+
+</menu>

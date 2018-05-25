@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\codeStyles\Project.xml" timestamp="1527164433791" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\gradle.xml" timestamp="1527164543980" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__android_arch_core_common_1_1_0_jar.xml" timestamp="1527164875646" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__android_arch_core_runtime_1_1_0.xml" timestamp="1527164875705" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__android_arch_lifecycle_common_1_1_0_jar.xml" timestamp="1527164875752" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__android_arch_lifecycle_livedata_core_1_1_0.xml" timestamp="1527164875824" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__android_arch_lifecycle_runtime_1_1_0.xml" timestamp="1527164875879" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__android_arch_lifecycle_viewmodel_1_1_0.xml" timestamp="1527164875938" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_android_support_animated_vector_drawable_27_1_1.xml" timestamp="1527164876394" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_android_support_appcompat_v7_27_1_1.xml" timestamp="1527164876539" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_1_1_0.xml" timestamp="1527164876667" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_solver_1_1_0_jar.xml" timestamp="1527164876790" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_android_support_design_27_1_1.xml" timestamp="1527219178394" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_android_support_recyclerview_v7_27_1_1.xml" timestamp="1527219179678" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_android_support_support_annotations_27_1_1_jar.xml" timestamp="1527164876997" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_android_support_support_compat_27_1_1.xml" timestamp="1527164877423" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_android_support_support_core_ui_27_1_1.xml" timestamp="1527164878072" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_android_support_support_core_utils_27_1_1.xml" timestamp="1527164878455" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_android_support_support_fragment_27_1_1.xml" timestamp="1527164878912" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_android_support_support_media_compat_27_1_1.xml" timestamp="1527219180175" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_android_support_support_v4_27_1_1.xml" timestamp="1527219180964" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_android_support_support_vector_drawable_27_1_1.xml" timestamp="1527164879026" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" timestamp="1527164879167" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" timestamp="1527164879264" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_android_support_test_monitor_1_0_2.xml" timestamp="1527164879366" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_android_support_test_runner_1_0_2.xml" timestamp="1527164879476" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_android_support_transition_27_1_1.xml" timestamp="1527219181947" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1527164879601" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1527164879859" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1527164880060" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1527164880286" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1527164880579" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1527164880902" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1527164881039" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1527164881286" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\misc.xml" timestamp="1527227744822" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\modules.xml" timestamp="1527164875542" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\runConfigurations.xml" timestamp="1527164544075" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\.idea\workspace.xml" timestamp="1527227744895" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\Application_0.iml" timestamp="1527164875280" />
+    <file path="C:\Users\Father's Eyes\Downloads\timetablesApp-20180521T060631Z-001\Application_0\app\app.iml" timestamp="1527219173335" />
+  </project-files>
+</conversion>
+
